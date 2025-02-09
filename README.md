@@ -7,6 +7,7 @@ A detailed Jupyter Notebook showcasing the entire EDA process, including data cl
 
 test.csv: 
 The dataset used for analysis, containing passenger information such as class, gender, age, etc., and whether they survived or not.
+
 # Key Steps in the EDA Process
 1. Data Cleaning
 Handling Missing Values: Missing data was identified and imputed or removed accordingly.
