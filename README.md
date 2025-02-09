@@ -35,6 +35,9 @@ Matplotlib & Seaborn: Libraries for creating visualizations.
 Jupyter Notebook: Environment to perform EDA and present the analysis.
 # Project Highlights
 Data Cleaning: Dealt with missing data and anomalies.
+
 Descriptive Statistics: Provided a statistical overview of the dataset.
+
 Visualization: Created a variety of plots to analyze relationships between features.
+
 Feature Engineering: Derived new features that could enhance prediction models.
