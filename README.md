@@ -1,4 +1,5 @@
-# PRODIGY_DS_02-Exploratory Data Analysis
+# Task-02
+# Exploratory Data Analysis (EDA) on Titanic Dataset
 This is my Task 2 of the Data Science Internship at Prodigy Infotech. This repository is focused on performing Exploratory Data Analysis (EDA) on the famous Titanic dataset, which is essential for understanding data patterns, uncovering insights, and preparing data for further modeling. Through visualizations and statistical analysis, the project sheds light on relationships between various features, identifying trends that could help in predicting passenger survival.
 # Files
 Titanic dataset EDA.ipynb: 
