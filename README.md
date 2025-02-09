@@ -27,8 +27,11 @@ Feature Encoding: Categorical variables were converted into numerical form for m
 Data Splitting: The dataset was prepared for training and validation by splitting it appropriately.
 # Technologies Used
 Python: Core programming language for the analysis.
+
 Pandas: Used for data manipulation and analysis.
+
 Matplotlib & Seaborn: Libraries for creating visualizations.
+
 Jupyter Notebook: Environment to perform EDA and present the analysis.
 # Project Highlights
 Data Cleaning: Dealt with missing data and anomalies.
